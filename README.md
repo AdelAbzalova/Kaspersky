@@ -3,3 +3,6 @@
 1) Клонируйте репозиторий с помощью команды git clone https://github.com/AdelAbzalova/Kaspersky.git <название папки>
 2) Установите все зависимости через npm install в корневой директории проекта.
 3) Запустите приложение в режиме разработки с помощью команды npm start или соберите проект с помощью npm run build.
+
+## ссылка на приложение
+https://effervescent-swan-ba539f.netlify.app/
